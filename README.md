@@ -63,7 +63,7 @@ Simulation games simulate real-life tasks and environments. From flying airplane
 We love connecting with fellow sim gamers. Have a suggestion, question, or want to collaborate?
 
 - 🌐 Website: [https://simfandom.com](https://simfandom.com)
-- 📧 Email: hello@simfandom.com (example)
+- 📧 Email: simfandom@gmail.com
 - 💬 GitHub Issues: Use this repo to submit bugs or requests
 
 ---
